@@ -18,6 +18,14 @@ loc = Location("Great Britain", "53.945387,-2.521142,436mi")
 locations[loc.Name] = loc
 loc = Location("Australia", "-25.608874,134.361878,2235mi")
 locations[loc.Name] = loc
+loc = Location("Ireland", "53.501023,-8.017305,211mi")
+locations[loc.Name] = loc
+loc = Location("Canada", "64.323322,-96.104943,4339mi")
+locations[loc.Name] = loc
+loc = Location("South Africa", "-30,25,741mi")
+locations[loc.Name] = loc
+loc = Location("France", "46.760581,2.406532,583mi")
+locations[loc.Name] = loc
 
 
 def main():
